@@ -1,36 +1,36 @@
-THIS IS ANOTHER TEST! 
-You can use the [editor on GitHub](https://github.com/ModellingBiologicalDataCourse-iMM2022/ModellingBiologicalDataCourse-iMM2022.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Schedule](#id-schedule) | [Social Events](#id-socialevents) | 
+  [Venue](#id-venue) | [Accommodation](#id-accommodation) | [Materials](#id-materials) | 
+  [Pre-installation](#id-preinstallation) |[Support or Contact](#id-contacts)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<div id='id-schedule'/>
 
-```markdown
-Syntax highlighted code block
+## Schedule
 
-# Header 1
-## Header 2
-### Header 3
+<div id='id-socialevents'/>
 
-- Bulleted
-- List
+### Social Events
 
-1. Numbered
-2. List
+<div id='id-venue'/>
 
-**Bold** and _Italic_ and `Code` text
+## Venue
+<div id='id-accommodation'/>
 
-[Link](url) and ![Image](src)
-```
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31285.801742123218!2d-9.166283526806124!3d38.76084404648707!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd19331bc2f28e2b%3A0xbdcfa9c87a4c0bc4!2sInstituto%20de%20Medicina%20Molecular%20(IMM)!5e0!3m2!1sen!2suk!4v1653313338501!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+## Accommodation
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ModellingBiologicalDataCourse-iMM2022/ModellingBiologicalDataCourse-iMM2022.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<div id='id-materials'/>
 
-### Support or Contact
+## Materials
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<div id='id-preinstallation'/>
+
+## Pre-installation
+
+## Support or Contact
+
+<div id='id-contacts'/>
+
