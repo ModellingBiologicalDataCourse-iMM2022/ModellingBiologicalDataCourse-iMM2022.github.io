@@ -1,7 +1,7 @@
 
-[Schedule](#id-schedule) | [Social Events](#id-socialevents) | 
-  [Venue](#id-venue) | [Accommodation](#id-accommodation) | [Materials](#id-materials) | 
-  [Pre-installation](#id-preinstallation) |[Support or Contact](#id-contacts)
+[Schedule](#id-schedule) - [Social Events](#id-socialevents) -
+  [Venue](#id-venue) - [Accommodation](#id-accommodation) - [Materials](#id-materials) -
+  [Pre-installation](#id-preinstallation) - [Support or Contact](#id-contacts)
 
 
 <div id='id-schedule'/>
