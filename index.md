@@ -8,9 +8,11 @@
 
 ## Schedule
 
+![fig_scheduleTable](scheduleTable.png)
+
 <div id='id-socialevents'/>
 
-### Social Events
+## Social Events
 
 <div id='id-venue'/>
 
