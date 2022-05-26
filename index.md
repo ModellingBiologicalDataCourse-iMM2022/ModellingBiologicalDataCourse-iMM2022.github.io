@@ -1,6 +1,6 @@
 
-[To-do list for participants](#id-preinstallation) - [Schedule](#id-schedule) - [Social Events](#id-socialevents) -
-  [Venue](#id-venue) - [Accommodation](#id-accommodation) - [Materials](#id-materials) - [Support or Contact](#id-contacts)
+[To-do list for participants](#id-preinstallation) - [Materials](#id-materials) - [Schedule](#id-schedule) - [Social Events](#id-socialevents) -
+  [Venue](#id-venue) - [Accommodation](#id-accommodation) - [Contact](#id-contacts)
 
 <div id='id-preinstallation'/>
 
@@ -14,6 +14,10 @@ We also ask you to carefully read the journal club paper (Pai et al. 2017) befor
 
 1) Carefully read this paper for the journal club: https://doi.org/10.7554/eLife.32537<br>
 2) Install the psichomics R package: https://bioconductor.org/packages/release/bioc/html/psichomics.html<br>
+
+<div id='id-materials'/>
+
+## Materials
 
 <div id='id-schedule'/>
 
@@ -34,11 +38,7 @@ We also ask you to carefully read the journal club paper (Pai et al. 2017) befor
 
 ## Accommodation
 
-<div id='id-materials'/>
-
-## Materials
-
-## Support or Contact
+## Contact
 
 <div id='id-contacts'/>
 
