@@ -38,6 +38,7 @@ We also ask you to carefully read the journal club paper (Pai et al. 2017) befor
 <b>TO DO:</b>
 
 1) Carefully read this paper for the journal club: https://doi.org/10.7554/eLife.32537
+2) Install the psichomics R package: https://bioconductor.org/packages/release/bioc/html/psichomics.html
 
 
 ## Support or Contact
