@@ -4,6 +4,8 @@
 
 <div id='id-preinstallation'/>
 
+TESTING
+
 ## To-do list for participants
 
 We want to make sure that we can use all of the time available during the summer school for learning - and not for solving technical problems! This is why it is really important that you make sure that all the necessary software has been installed on your computer BEFORE the summer school starts. You should not leave this to the last minute so that there is time to solve any installation issues. If you have any problems or questions, don't hesitate to send a message to the course WhatsApp group!
