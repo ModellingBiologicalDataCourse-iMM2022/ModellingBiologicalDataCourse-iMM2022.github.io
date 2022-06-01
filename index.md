@@ -1,6 +1,6 @@
 
 [To-do list for participants](#id-preinstallation) - [Materials](#id-materials) - [Schedule](#id-schedule) - [COVID-19 and visa requirements](#id-covid) -
-  [Venue](#id-venue) - [Accommodation](#id-accommodation) - [Contact](#id-contacts)
+  [Venue](#id-venue) - [Accommodation](#id-accommodation) - [Organisers and contact](#id-organisers)
 
 <div id='id-preinstallation'/>
 
@@ -30,6 +30,8 @@ We also ask you to carefully read the journal club paper (Pai et al. 2017) befor
 time and place TBA: Photographic scavenger hunt
 
 <b>Monday the 20th of June</b>
+
+9.00: An organiser will meet you in the hotel lobby to show you the way to the institute.
 
 9.30-10.00: Opening remarks. (*Rosina Savisaar and Maria Carmo-Fonseca*)
 
@@ -118,13 +120,25 @@ We emphasize that the participants are themselves responsible for making sure th
 <div id='id-venue'/>
 
 ## Venue
-<div id='id-accommodation'/>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31285.801742123218!2d-9.166283526806124!3d38.76084404648707!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd19331bc2f28e2b%3A0xbdcfa9c87a4c0bc4!2sInstituto%20de%20Medicina%20Molecular%20(IMM)!5e0!3m2!1sen!2suk!4v1653313338501!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+<div id='id-accommodation'/>
+
 ## Accommodation
 
-## Contact
+<div id='id-organisers'/>
 
-<div id='id-contacts'/>
+## Organisers and contact
 
+<b>Rosina Savisaar, Post-doctoral researcher, Institute of Molecular Medicine, Lisbon</b>
+Chief organiser
+For enquiries: rsavisaar @ medicina . ulisboa . pt
+
+<b>André Gomes</b>
+
+<b>Beatriz Silva</b>
+
+<b>Jean-Christophe</b>
+
+<b>Rui Luís</b>
