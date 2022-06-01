@@ -133,9 +133,9 @@ We emphasize that the participants are themselves responsible for making sure th
 
 ![Photo of Rosina](rosina.jpg)
 
-<b>Rosina Savisaar, Post-doctoral researcher, Institute of Molecular Medicine, Lisbon</b>
-Chief organiser
-For enquiries: rsavisaar @ medicina . ulisboa . pt
+<b>Rosina Savisaar, Post-doctoral researcher, Institute of Molecular Medicine, Lisbon</b><br>
+Chief organiser<br>
+For enquiries: rsavisaar @ medicina . ulisboa . pt<br>
 
 <b>André Gomes</b>
 
