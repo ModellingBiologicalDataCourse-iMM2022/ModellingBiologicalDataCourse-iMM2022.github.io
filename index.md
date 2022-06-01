@@ -23,13 +23,87 @@ We also ask you to carefully read the journal club paper (Pai et al. 2017) befor
 
 ## Schedule
 
-![fig_scheduleTable](scheduleTable.png)
+*NB! All teaching blocks have a 10-minute break once per hour. Refreshments will be available.*
 
-<b><u>Detailed schedule</b></u>
+<b>Sunday the 19th of June</b>
 
-<u>
+time and place TBA: Photographic scavenger hunt
+
+<b>Monday the 20th of June</b>
+
+10.00-12.10: Introduction to modelling (I). (*Ruy Ribeiro*)
+
+12.10-13.10: LUNCH
+
+13.10-14:10: Introduction to modelling (II). (*Ruy Ribeiro*)
+
+14.20-15.20: Introduction to probabilities (I). (*Ruy Ribeiro*)
+
+15.20-15.50: COFFEE BREAK
+
+15.50-18.00: Introduction to probabilities (II). (*Ruy Ribeiro*)
+
+<b>Tuesday the 21st of June</b>
+
+10.00-12.10: Regression (I). (*Ruy Ribeiro*)
+
+12.10-13.10: LUNCH
+
+13.10-15.20: Regression (II). (*Ruy Ribeiro*)
+
+15.20-15.50: COFFEE BREAK
 
 <div id='id-socialevents'/>
+
+15.50-18.00: TBA. (*Benilton Carvalho*)
+
+<b>Wednesday the 22nd of June</b>
+
+TBA
+
+12.10-13.10: LUNCH
+
+TBA
+
+15.20-15.50: COFFEE BREAK
+
+TBA
+
+17.00-18.00: Round table. (*Ruy Ribeiro, Benilton Carvalho, Mariana Ferreira, Nuno Morais, Alon Bar*)
+
+20.00-21.30: Ruy Ribeiro speaker dinner (*attendees: Aleix Arnau Soler, Erez Greenstein, Robert Bücking, Micon Garvilles, Ana Pereira de Brito Líbano Monteiro*).
+
+20.00-21.30: Alon Bar speaker dinner (*attendees: Harithaa Anandakumar, Isaac Wong, Pedro Barbosa, Noy Ozer*).
+
+<b>Thursday the 23rd of June</b>
+
+10.00-12.10: Quantification of alternative sequence inclusion levels from RNA sequencing data. (*Mariana Ferreira & Nuno Morais*)
+
+12.10-13.10: LUNCH
+
+13.10-15.20: Differential splicing analyses. (*Mariana Ferreira & Nuno Morais*)
+
+15.20-15.50: COFFEE BREAK
+
+15.50-16.50: Preparation for the journal club. (*Rui Luís and Rosina Savisaar*)
+
+17.00-18.00: Journal club. (*Christopher Burge*)
+
+20.00-21.30: Benilton Carvalho speaker dinner (*attendees: Ava Chan, TBA, Marko Dunjic, Rui Pedro Oliveira do Amaral Vieira*).
+
+20.00-21.30: Mariana Ferreira + Nuno Morais speaker dinner (*attendees: Harithaa Anandakumar, Isaac Wong, Pedro Barbosa, Noy Ozer*).
+
+<b>Friday the 24th of June</b>
+
+12.10-13.10: LUNCH
+
+TBA
+
+15.20-15.50: COFFEE BREAK
+
+TBA
+
+20.00-22.00: Farewell party.
 
 ## Social Events
 
