@@ -12,12 +12,14 @@ We also ask you to carefully read the journal club paper (Pai et al. 2017) befor
 
 <b>TO DO:</b>
 
-1) Carefully read this paper for the journal club: https://doi.org/10.7554/eLife.32537<br>
-2) Install the psichomics R package: https://bioconductor.org/packages/release/bioc/html/psichomics.html<br>
+1) Carefully read <a href="https://doi.org/10.7554/eLife.32537">this paper</a> for the journal club.<br>
+2) Install the <a href="https://bioconductor.org/packages/release/bioc/html/psichomics.html">psichomics R package</a>.<br>
 
 <div id='id-materials'/>
 
 ## Materials
+
+TBA: GitHub links.
 
 <div id='id-schedule'/>
 
@@ -121,17 +123,23 @@ We emphasize that the participants are themselves responsible for making sure th
 
 ## Venue
 
+The summer school will take place in the self-study hall (*sala de autoaprendizagem*) of the ground floor of the Egas Moniz building, which houses the Institute of Molecular Medicine. For those staying at the hotel, a volunteer will come to meet you in the lobby at 9am on the first day of the summer school to make sure you make it to the right place at the right time. The hotel is located walking distance (20-25 minutes) from the iMM.
+
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31285.801742123218!2d-9.166283526806124!3d38.76084404648707!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd19331bc2f28e2b%3A0xbdcfa9c87a4c0bc4!2sInstituto%20de%20Medicina%20Molecular%20(IMM)!5e0!3m2!1sen!2suk!4v1653313338501!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <div id='id-accommodation'/>
 
 ## Accommodation
 
+You will be housed at the <a href="https://www.nh-hotels.com/hotel/nh-lisboa-campo-grande">NH Lisboa Campo Grande</a>. To get there from the airport, you're probably best off either getting the metro or an Uber. A regular taxi will cost an arm and a leg and is thus not recommended. If you decide to get the metro, you need to first take the red line from the airport to Saldanha, and then the yellow line from Saldanha to Entre Campos. From the Entre Campos metro station, it is a 5-minute walk to the hotel.
+
+![Directions from the hotel to the conference venue.](hotel_to_imm.png)
+
 <div id='id-organisers'/>
 
 ## Organisers and contact
 
-![Photo of Rosina](rosina.jpg)
+![Photo of Rosina Savisaar](rosina.jpg)
 
 <b>Rosina Savisaar, Post-doctoral researcher, Institute of Molecular Medicine, Lisbon</b><br>
 Chief organiser<br>
