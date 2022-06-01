@@ -131,6 +131,8 @@ We emphasize that the participants are themselves responsible for making sure th
 
 ## Organisers and contact
 
+![fig_Rosina](Rosina Savisaar (Maria do Carmo Fonseca Lab) copy.jpg)
+
 <b>Rosina Savisaar, Post-doctoral researcher, Institute of Molecular Medicine, Lisbon</b>
 Chief organiser
 For enquiries: rsavisaar @ medicina . ulisboa . pt
