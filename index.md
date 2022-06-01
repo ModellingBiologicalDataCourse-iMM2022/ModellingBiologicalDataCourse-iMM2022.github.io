@@ -1,5 +1,5 @@
 
-[To-do list for participants](#id-preinstallation) - [Materials](#id-materials) - [Schedule](#id-schedule) - [Social Events](#id-socialevents) -
+[To-do list for participants](#id-preinstallation) - [Materials](#id-materials) - [Schedule](#id-schedule) - [COVID-19 and visa requirements](#id-covid) -
   [Venue](#id-venue) - [Accommodation](#id-accommodation) - [Contact](#id-contacts)
 
 <div id='id-preinstallation'/>
@@ -109,7 +109,11 @@ TBA
 
 20.00-22.00: Farewell party.
 
-## Social Events
+<div id='id-covid'/>
+
+## COVID-19 and visa requirements
+
+We emphasize that the participants are themselves responsible for making sure that they fulfill all visa or COVID-19 related requirements for entering Portugal. If you need an invitation letter, please let us know ASAP. COVID-19 related requirements may change rapidly. You can find the most recent information on <a href="https://www.visitportugal.com/en/content/covid-19-measures-implemented-portugal">this page</a>.
 
 <div id='id-venue'/>
 
