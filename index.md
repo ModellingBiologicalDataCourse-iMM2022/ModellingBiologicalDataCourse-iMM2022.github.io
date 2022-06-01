@@ -31,6 +31,8 @@ time and place TBA: Photographic scavenger hunt
 
 <b>Monday the 20th of June</b>
 
+9.30-10.00: Opening remarks. (*Rosina Savisaar and Maria Carmo-Fonseca*)
+
 10.00-12.10: Introduction to modelling (I). (*Ruy Ribeiro*)
 
 12.10-13.10: LUNCH
