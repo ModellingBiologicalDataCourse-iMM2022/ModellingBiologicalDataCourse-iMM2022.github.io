@@ -25,6 +25,10 @@ We also ask you to carefully read the journal club paper (Pai et al. 2017) befor
 
 ![fig_scheduleTable](scheduleTable.png)
 
+<b><u>Detailed schedule</b></u>
+
+<u>
+
 <div id='id-socialevents'/>
 
 ## Social Events
