@@ -95,13 +95,15 @@ TBA
 
 <b>Friday the 24th of June</b>
 
+10.00-12.10: Block 1. (*Alon Bar*)
+
 12.10-13.10: LUNCH
 
-TBA
+13.10-15.20: Block 2. (*Alon Bar*)
 
 15.20-15.50: COFFEE BREAK
 
-TBA
+15.50-18.00: Block 3. (*Alon Bar*)
 
 20.00-22.00: Farewell party.
 
