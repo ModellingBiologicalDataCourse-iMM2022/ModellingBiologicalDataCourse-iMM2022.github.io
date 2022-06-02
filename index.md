@@ -156,7 +156,7 @@ For enquiries: rsavisaar @ medicina . ulisboa . pt<br><br>
 André Gomes<br>
 Beatriz Silva<br>
 Jean-Christophe<br>
-Rui Luís<br>
+Rui Luís<br><br>
 
 <b>Funding</b><br>
 ![Funding statement.](RiboMed_funding.png) 
