@@ -18,6 +18,8 @@ Note that you will need to bring a laptop computer (with the necessary software 
 2) Install the <a href="https://bioconductor.org/packages/release/bioc/html/psichomics.html">psichomics R package</a>.<br>
 3) Carefully read <a href="https://doi.org/10.7554/eLife.32537">this paper</a> for the journal club.<br>
 
+This TO DO list may still be added to. You will be notified through the WhatsApp gorup if that happens.
+
 <br>
 <div id='id-materials'/>
 
@@ -155,7 +157,7 @@ For enquiries: rsavisaar@medicina.ulisboa.pt<br><br>
 <b>Volunteer organisers and Teaching Assistants</b><br>
 André Gomes<br>
 Beatriz Silva<br>
-Jean-Christophe<br>
+Jean-Christophe Lone<br>
 Rui Luís<br><br>
 
 <b>Funding</b><br>
