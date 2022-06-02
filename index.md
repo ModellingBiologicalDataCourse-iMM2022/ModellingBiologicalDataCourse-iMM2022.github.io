@@ -29,11 +29,11 @@ TBA: GitHub links.
 
 *NB! All teaching blocks have a 10-minute break once per hour. Refreshments will be available.*
 
-<b>Sunday the 19th of June</b>
+<br><b>Sunday the 19th of June</b>
 
 time and place TBA: Photographic scavenger hunt
 
-<b>Monday the 20th of June</b>
+<br><b>Monday the 20th of June</b>
 
 9.00: An organiser will meet you in the hotel lobby to show you the way to the institute.
 
@@ -51,7 +51,7 @@ time and place TBA: Photographic scavenger hunt
 
 15.50-18.00: <a href="Ribeiro-course-plan3.pdf">Introduction to probabilities (II)</a>. (*Ruy Ribeiro*)
 
-<b>Tuesday the 21st of June</b>
+<br><b>Tuesday the 21st of June</b>
 
 10.00-12.10: <a href="Ribeiro-course-plan3.pdf">Regression (I)</a>. (*Ruy Ribeiro*)
 
@@ -65,7 +65,7 @@ time and place TBA: Photographic scavenger hunt
 
 15.50-18.00: TBA. (*Benilton Carvalho*)
 
-<b>Wednesday the 22nd of June</b>
+<br><b>Wednesday the 22nd of June</b>
 
 TBA
 
@@ -83,7 +83,7 @@ TBA
 
 20.00-21.30: Alon Bar speaker dinner (*attendees: Harithaa Anandakumar, Isaac Wong, Pedro Barbosa, Noy Ozer*).
 
-<b>Thursday the 23rd of June</b>
+<br><b>Thursday the 23rd of June</b>
 
 10.00-12.10: <a href="Statistical_modelling_for_splicing_analyses.pdf">Quantification of alternative sequence inclusion levels from RNA sequencing data</a>. (*Mariana Ferreira & Nuno Morais*)
 
@@ -101,7 +101,7 @@ TBA
 
 20.00-21.30: Mariana Ferreira + Nuno Morais speaker dinner (*attendees: Harithaa Anandakumar, Isaac Wong, Pedro Barbosa, Noy Ozer*).
 
-<b>Friday the 24th of June</b>
+<br><b>Friday the 24th of June</b>
 
 10.00-12.10: Block 1. (*Alon Bar*)
 
