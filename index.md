@@ -14,8 +14,8 @@ Note that you will need to bring a laptop computer (with the necessary software 
 
 <b>TO DO:</b>
 
-1) Install <a href="https://www.r-project.org/">R</a> and <a href="https://www.rstudio.com/products/rstudio/download/">RStudio Desktop</a>.<br>
-2) Install the <a href="https://bioconductor.org/packages/release/bioc/html/psichomics.html">psichomics R package</a>.<br>
+1) Install <a href="https://www.r-project.org/">R</a> (4.2.x) and <a href="https://www.rstudio.com/products/rstudio/download/">RStudio Desktop</a>.<br>
+2) Install the following R packages: <a href="https://bioconductor.org/packages/release/bioc/html/psichomics.html">psichomics</a>, <a href="https://bioconductor.org/packages/release/bioc/html/DESeq2.html">DESeq2</a> and <a href="https://bioconductor.org/packages/release/data/experiment/html/pasilla.html">pasilla</a>.<br>
 3) Read <a href="https://doi.org/10.7554/eLife.32537">this paper</a> for the journal club.<br>
 
 <br>
