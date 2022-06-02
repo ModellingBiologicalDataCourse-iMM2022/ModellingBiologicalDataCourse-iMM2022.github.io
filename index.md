@@ -106,15 +106,15 @@ TBA
 
 <br><b>Friday the 24th of June</b>
 
-10.00-12.10: Block 1. (*Alon Bar*)
+10.00-12.10: Introduction to the glucose-insulin circuit - physiology and equations. (*Alon Bar*)
 
 12.10-13.10: LUNCH
 
-13.10-15.20: Block 2. (*Alon Bar*)
+13.10-15.20: Beta cell mass dynamics, compensation, and prediabetes. (*Alon Bar*)
 
 15.20-15.50: COFFEE BREAK
 
-15.50-18.00: Block 3. (*Alon Bar*)
+15.50-18.00: Type-2 diabetes and mutant resistance. (*Alon Bar*)
 
 20.00-22.00: Farewell party.
 
