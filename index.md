@@ -145,16 +145,12 @@ You will be housed at the <a href="https://www.nh-hotels.com/hotel/nh-lisboa-cam
 
 ## Organisers and contact
 
-![Photo of Rosina Savisaar](rosina.jpg)
+<b>Chief organizer</b><br>
+Rosina Savisaar<br>
+For enquiries: rsavisaar @ medicina . ulisboa . pt<br><br>
 
-<b>Rosina Savisaar, Post-doctoral researcher, Institute of Molecular Medicine, Lisbon</b><br>
-Chief organiser<br>
-For enquiries: rsavisaar @ medicina . ulisboa . pt<br>
-
-<b>André Gomes</b>
-
-<b>Beatriz Silva</b>
-
-<b>Jean-Christophe</b>
-
-<b>Rui Luís</b>
+<b>Volunteer organisers and Teaching Assistants</b><br>
+André Gomes<br>
+Beatriz Silva<br>
+Jean-Christophe<br>
+Rui Luís<br>
