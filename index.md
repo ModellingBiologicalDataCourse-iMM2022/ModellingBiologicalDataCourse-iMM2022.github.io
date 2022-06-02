@@ -95,7 +95,7 @@ TBA
 
 15.50-16.50: Preparation for the journal club. (*Rui Luís and Rosina Savisaar*)
 
-17.00-18.00: Journal club. (*Christopher Burge*)
+17.00-18.00: <a href="https://doi.org/10.7554/eLife.32537">Journal club</a>. (*Christopher Burge*)
 
 20.00-21.30: Benilton Carvalho speaker dinner (*attendees: Ava Chan, TBA, Marko Dunjic, Rui Pedro Oliveira do Amaral Vieira*).
 
