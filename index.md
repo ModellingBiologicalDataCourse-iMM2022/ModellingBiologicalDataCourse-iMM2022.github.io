@@ -10,10 +10,13 @@ We want to make sure that we can use all of the time available during the summer
 
 We also ask you to carefully read the journal club paper (Pai et al. 2017) before the summer school starts. On Thursday, you will get to delve deeper into the modelling aspects of the paper - first with your team-mates and then with Chris Burge himself. But you will not have time to work through the entire paper from scratch so it is important you prepare beforehand.
 
+Note that you will need to bring a laptop computer (with the necessary software installed) to all sessions.
+
 <b>TO DO:</b>
 
-1) Carefully read <a href="https://doi.org/10.7554/eLife.32537">this paper</a> for the journal club.<br>
+1) Install <a href="https://www.r-project.org/">R</a> and <a href="https://www.rstudio.com/products/rstudio/download/">RStudio Desktop</a>.<br>
 2) Install the <a href="https://bioconductor.org/packages/release/bioc/html/psichomics.html">psichomics R package</a>.<br>
+3) Carefully read <a href="https://doi.org/10.7554/eLife.32537">this paper</a> for the journal club.<br>
 
 <br>
 <div id='id-materials'/>
@@ -154,3 +157,6 @@ André Gomes<br>
 Beatriz Silva<br>
 Jean-Christophe<br>
 Rui Luís<br>
+
+<b>Funding</b><br>
+![Funding statement.](RiboMed_funding.png) 
