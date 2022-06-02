@@ -27,7 +27,7 @@ Note that you will need to bring a laptop computer (with the necessary software 
 
 <br><b>Sunday the 19th of June</b>
 
-15.00-18.30. Photographic scavenger hunt through Rossio, Terreiro do Paço and Belém. You can either meet us at the hotel lobby at 14h30 or directly by Rossio metro station at 15h00 (next to the statue of a guy on a horse).
+15.00-18.30. Photographic scavenger hunt through Rossio, Terreiro do Paço and Belém. You can either meet us at the hotel lobby at 14h30 or directly by Rossio metro station at 15h00 (next to the statue of a guy on a horse on Praça da Figueira).
 
 <br><b>Monday the 20th of June</b>
 
