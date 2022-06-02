@@ -150,7 +150,7 @@ You will be housed at the <a href="https://www.nh-hotels.com/hotel/nh-lisboa-cam
 
 <b>Chief organizer</b><br>
 Rosina Savisaar<br>
-For enquiries: rsavisaar @ medicina . ulisboa . pt<br><br>
+For enquiries: rsavisaar@medicina.ulisboa.pt<br><br>
 
 <b>Volunteer organisers and Teaching Assistants</b><br>
 André Gomes<br>
