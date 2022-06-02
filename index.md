@@ -39,25 +39,25 @@ time and place TBA: Photographic scavenger hunt
 
 9.30-10.00: Opening remarks. (*Rosina Savisaar and Maria Carmo-Fonseca*)
 
-10.00-12.10: Introduction to modelling (I). (*Ruy Ribeiro*)
+10.00-12.10: <a href="Ribeiro-course-plan3.pdf">Introduction to modelling (I)</a>. (*Ruy Ribeiro*)
 
 12.10-13.10: LUNCH
 
-13.10-14:10: Introduction to modelling (II). (*Ruy Ribeiro*)
+13.10-14:10: <a href="Ribeiro-course-plan3.pdf">Introduction to modelling (II)</a>. (*Ruy Ribeiro*)
 
-14.20-15.20: Introduction to probabilities (I). (*Ruy Ribeiro*)
+14.20-15.20: <a href="Ribeiro-course-plan3.pdf">Introduction to probabilities (I)</a>. (*Ruy Ribeiro*)
 
 15.20-15.50: COFFEE BREAK
 
-15.50-18.00: Introduction to probabilities (II). (*Ruy Ribeiro*)
+15.50-18.00: <a href="Ribeiro-course-plan3.pdf">Introduction to probabilities (II)</a>. (*Ruy Ribeiro*)
 
 <b>Tuesday the 21st of June</b>
 
-10.00-12.10: Regression (I). (*Ruy Ribeiro*)
+10.00-12.10: <a href="Ribeiro-course-plan3.pdf">Regression (I)</a>. (*Ruy Ribeiro*)
 
 12.10-13.10: LUNCH
 
-13.10-15.20: Regression (II). (*Ruy Ribeiro*)
+13.10-15.20: <a href="Ribeiro-course-plan3.pdf">Regression (II)</a>. (*Ruy Ribeiro*)
 
 15.20-15.50: COFFEE BREAK
 
@@ -85,11 +85,11 @@ TBA
 
 <b>Thursday the 23rd of June</b>
 
-10.00-12.10: Quantification of alternative sequence inclusion levels from RNA sequencing data. (*Mariana Ferreira & Nuno Morais*)
+10.00-12.10: <a href="Statistical_modelling_for_splicing_analyses.pdf">Quantification of alternative sequence inclusion levels from RNA sequencing data</a>. (*Mariana Ferreira & Nuno Morais*)
 
 12.10-13.10: LUNCH
 
-13.10-15.20: Differential splicing analyses. (*Mariana Ferreira & Nuno Morais*)
+13.10-15.20: <a href="Statistical_modelling_for_splicing_analyses.pdf">Differential splicing analyses</a>. (*Mariana Ferreira & Nuno Morais*)
 
 15.20-15.50: COFFEE BREAK
 
