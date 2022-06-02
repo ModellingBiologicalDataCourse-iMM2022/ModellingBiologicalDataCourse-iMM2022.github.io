@@ -123,7 +123,7 @@ We emphasize that it is your responsability to make sure that you fulfill all vi
 
 ## Venue
 
-The summer school will take place in the self-study hall (*sala de autoaprendizagem*) of the ground floor of the Egas Moniz building, which houses the Institute of Molecular Medicine. For those staying at the hotel, a volunteer will come to meet you in the lobby at 9am on the first day of the summer school to make sure you make it to the right place at the right time. The hotel is located walking distance (25-30 minutes) from the iMM, although you also have the option of taking the metro (yellow line from Campo Pequeno to Cidade Universitária) or an Uber (very cheap in Lisbon!). Once you get to the Egas Moniz building, turn right
+The summer school will take place in the self-study hall (*sala de autoaprendizagem*) of the ground floor of the Egas Moniz building, which houses the Institute of Molecular Medicine. For those staying at the hotel, a volunteer will come to meet you in the lobby at 9am on the first day of the summer school to make sure you make it to the right place at the right time. The hotel is located walking distance (25-30 minutes) from the iMM, although you also have the option of taking the metro (yellow line from Campo Pequeno to Cidade Universitária) or an Uber (very cheap in Lisbon!).
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31285.801742123218!2d-9.166283526806124!3d38.76084404648707!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd19331bc2f28e2b%3A0xbdcfa9c87a4c0bc4!2sInstituto%20de%20Medicina%20Molecular%20(IMM)!5e0!3m2!1sen!2suk!4v1653313338501!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
