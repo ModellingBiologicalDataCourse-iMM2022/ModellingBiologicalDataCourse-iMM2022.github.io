@@ -93,7 +93,7 @@ Note that you will need to bring a laptop computer (with the necessary software 
 
 17.00-18.00: <a href="https://doi.org/10.7554/eLife.32537">Journal club</a>. (*Christopher Burge*)
 
-20.00-21.30: Benilton Carvalho speaker dinner (*attendees: Ava Chan, Marko Dunjic, Rui Pedro Oliveira do Amaral Vieira*). At Yak&Yeti, Calçada de Santo André 17.
+20.00-21.30: Benilton Carvalho speaker dinner (*attendees: Ava Chan, Marko Dunjic, Rui Pedro Oliveira do Amaral Vieira, Gonçalo André Barata Malpica*). At Yak&Yeti, Calçada de Santo André 17.
 
 20.00-21.30: Mariana Ferreira + Nuno Morais speaker dinner (*attendees: Jana Terenova, Jamie Carrington, Franziska Bemmann, Sara Rosen*). At Las Gringas, Calçada Poço dos Mouros 28.
 
