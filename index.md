@@ -75,9 +75,9 @@ Note that you will need to bring a laptop computer (with the necessary software 
 
 17.00-18.00: Round table. (*Ruy Ribeiro, Benilton Carvalho, Mariana Ferreira, Nuno Morais, Alon Bar*)
 
-20.00-21.30: Ruy Ribeiro speaker dinner (*attendees: Aleix Arnau Soler, Erez Greenstein, Robert Bücking, Micon Garvilles, Ana Pereira de Brito Líbano Monteiro*).
+20.00-21.30: Ruy Ribeiro speaker dinner (*attendees: Aleix Arnau Soler, Erez Greenstein, Robert Bücking, Micon Garvilles, Ana Pereira de Brito Líbano Monteiro*). At Las Gringas, Calçada Poço dos Mouros 28.
 
-20.00-21.30: Alon Bar speaker dinner (*attendees: Harithaa Anandakumar, Isaac Wong, Pedro Barbosa, Noy Ozer*).
+20.00-21.30: Alon Bar speaker dinner (*attendees: Harithaa Anandakumar, Isaac Wong, Pedro Barbosa, Noy Ozer*). At Yak&Yeti, Calçada de Santo André 17.
 
 <br><b>Thursday the 23rd of June</b>
 
@@ -93,9 +93,9 @@ Note that you will need to bring a laptop computer (with the necessary software 
 
 17.00-18.00: <a href="https://doi.org/10.7554/eLife.32537">Journal club</a>. (*Christopher Burge*)
 
-20.00-21.30: Benilton Carvalho speaker dinner (*attendees: Ava Chan, Marko Dunjic, Rui Pedro Oliveira do Amaral Vieira*).
+20.00-21.30: Benilton Carvalho speaker dinner (*attendees: Ava Chan, Marko Dunjic, Rui Pedro Oliveira do Amaral Vieira*). At Yak&Yeti, Calçada de Santo André 17.
 
-20.00-21.30: Mariana Ferreira + Nuno Morais speaker dinner (*attendees: Jana Terenova, Jamie Carrington, Franziska Bemmann, Sara Rosen*).
+20.00-21.30: Mariana Ferreira + Nuno Morais speaker dinner (*attendees: Jana Terenova, Jamie Carrington, Franziska Bemmann, Sara Rosen*). At Las Gringas, Calçada Poço dos Mouros 28.
 
 <br><b>Friday the 24th of June</b>
 
