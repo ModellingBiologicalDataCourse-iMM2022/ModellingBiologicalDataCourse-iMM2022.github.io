@@ -95,7 +95,7 @@ Note that you will need to bring a laptop computer (with the necessary software 
 
 20.00-21.30: Benilton Carvalho speaker dinner (*attendees: Ava Chan, Marko Dunjic, Rui Pedro Oliveira do Amaral Vieira*).
 
-20.00-21.30: Mariana Ferreira + Nuno Morais speaker dinner (*attendees: Harithaa Anandakumar, Isaac Wong, Pedro Barbosa, Noy Ozer*).
+20.00-21.30: Mariana Ferreira + Nuno Morais speaker dinner (*attendees: Jana Terenova, Jamie Carrington, Franziska Bemmann, Sara Rosen*).
 
 <br><b>Friday the 24th of June</b>
 
