@@ -1,5 +1,5 @@
 
-[To-do list for participants](#id-preinstallation) - [Schedule](#id-schedule) - [COVID-19 and visa requirements](#id-covid) -
+[To-do list for participants](#id-preinstallation) [Materials](#id-materials) - [Schedule](#id-schedule) - [COVID-19 and visa requirements](#id-covid) -
   [Venue](#id-venue) - [Accommodation](#id-accommodation) - [Organisers and contact](#id-organisers)
 
 <div id='id-preinstallation'/>
@@ -17,6 +17,15 @@ Note that you will need to bring a laptop computer (with the necessary software 
 1) Install <a href="https://www.r-project.org/">R</a> (4.2.x) and <a href="https://www.rstudio.com/products/rstudio/download/">RStudio Desktop</a>.<br>
 2) Install the following R packages: <a href="https://bioconductor.org/packages/release/bioc/html/psichomics.html">psichomics</a>, <a href="https://bioconductor.org/packages/release/bioc/html/DESeq2.html">DESeq2</a> and <a href="https://bioconductor.org/packages/release/data/experiment/html/pasilla.html">pasilla</a>.<br>
 3) Read <a href="https://doi.org/10.7554/eLife.32537">this paper</a> for the journal club.<br>
+
+<br>
+<div id='id-materials'/>
+
+## Materials
+
+<a href="https://github.com/ModellingBiologicalDataCourse-iMM2022/Benilton">Benilton Carvalho</a><br>
+<a href="https://github.com/ModellingBiologicalDataCourse-iMM2022/MarianaFerreira">Mariana Ferreira & Nuno Morais</a><br>
+<a href="https://github.com/ModellingBiologicalDataCourse-iMM2022/AlonBar">Alon Bar</a><br>
 
 <br>
 <div id='id-schedule'/>
@@ -59,23 +68,23 @@ Note that you will need to bring a laptop computer (with the necessary software 
 
 <div id='id-socialevents'/>
 
-15.50-18.00: Generalized Linear Models and applications to omics data (*Benilton Carvalho*)
+15.50-18.00: <a href="benilton_plan.pdf">Generalized Linear Models and applications to omics data</a>. (*Benilton Carvalho*)
 
 <br><b>Wednesday the 22nd of June</b>
 
-10.00-12.10: Statistical modelling for Differential Gene Expression analysis (I). (*Benilton Carvalho*)
+10.00-12.10: <a href="benilton_plan.pdf">Statistical modelling for Differential Gene Expression analysis (I)</a>. (*Benilton Carvalho*)
 
 12.10-13.10: LUNCH
 
-13.10-15.50: Statistical modelling for Differential Gene Expression analysis (II). (*Benilton Carvalho*)
+13.10-15.50: <a href="benilton_plan.pdf">Statistical modelling for Differential Gene Expression analysis (II)</a>. (*Benilton Carvalho*)
 
 15.20-15.50: COFFEE BREAK
 
-15.50-16.50: Statistical modelling for Differential Gene Expression analysis (III). (*Benilton Carvalho*)
+15.50-16.50: <a href="benilton_plan.pdf">Statistical modelling for Differential Gene Expression analysis (III)</a>. (*Benilton Carvalho*)
 
 17.00-18.00: Round table. (*Ruy Ribeiro, Benilton Carvalho, Mariana Ferreira, Nuno Morais, Alon Bar*)
 
-20.00-21.30: Ruy Ribeiro speaker dinner (*attendees: Aleix Arnau Soler, Erez Greenstein, Robert Bücking, Micon Garvilles, Ana Pereira de Brito Líbano Monteiro*). At Las Gringas, Calçada Poço dos Mouros 28.
+20.00-21.30: Ruy Ribeiro speaker dinner (*attendees: Aleix Arnau Soler, Erez Greenstein, Robert Bücking, Micon Garvilles, Ana Pereira de Brito Líbano Monteiro*). At Café no Chiado, Largo Picadeiro 10 a 12.
 
 20.00-21.30: Alon Bar speaker dinner (*attendees: Harithaa Anandakumar, Isaac Wong, Pedro Barbosa, Noy Ozer*). At Yak&Yeti, Calçada de Santo André 17.
 
@@ -95,7 +104,7 @@ Note that you will need to bring a laptop computer (with the necessary software 
 
 20.00-21.30: Benilton Carvalho speaker dinner (*attendees: Ava Chan, Marko Dunjic, Rui Pedro Oliveira do Amaral Vieira, Gonçalo André Barata Malpica*). At Yak&Yeti, Calçada de Santo André 17.
 
-20.00-21.30: Mariana Ferreira + Nuno Morais speaker dinner (*attendees: Jana Terenova, Jamie Carrington, Franziska Bemmann, Sara Rosen*). At Las Gringas, Calçada Poço dos Mouros 28.
+20.00-21.30: Mariana Ferreira + Nuno Morais speaker dinner (*attendees: Jana Terenova, Jamie Carrington, Franziska Bemmann, Sara Rosen*). At Café no Chiado, Largo Picadeiro 10 a 12.
 
 <br><b>Friday the 24th of June</b>
 
