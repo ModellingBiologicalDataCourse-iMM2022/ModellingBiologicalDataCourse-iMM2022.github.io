@@ -118,7 +118,7 @@ Note that you will need to bring a laptop computer (with the necessary software 
 
 15.50-18.00: Type-2 diabetes and mutant resistance. (*Alon Bar*)
 
-20.00-22.00: Farewell party.
+18.00-22.00: Farewell party.
 
 <br>
 <div id='id-covid'/>
