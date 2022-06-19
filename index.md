@@ -23,6 +23,7 @@ Note that you will need to bring a laptop computer (with the necessary software 
 
 ## Materials
 
+<a href="https://github.com/ModellingBiologicalDataCourse-iMM2022/RuyRibeiro">Ruy Ribeiro</a><br>
 <a href="https://github.com/ModellingBiologicalDataCourse-iMM2022/Benilton">Benilton Carvalho</a><br>
 <a href="https://github.com/ModellingBiologicalDataCourse-iMM2022/MarianaFerreira">Mariana Ferreira & Nuno Morais</a><br>
 <a href="https://github.com/ModellingBiologicalDataCourse-iMM2022/AlonBar">Alon Bar</a><br>
